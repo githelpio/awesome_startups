@@ -30,6 +30,19 @@
 
 ##[Keen](https://keen.io/) - [GitHub Org]()
 
+##[PredictionIO](https://prediction.io/) - [GitHub Org]()
+
+##[Elastic](https://www.elastic.co/) - [GitHub Org]()
+
+##[Redis](http://redis.io/) - [GitHub Org]()
+
+##[MongoDB](https://www.mongodb.org/) - [GitHub Org]()
+
+##[Neo4j](http://neo4j.com/) - [GitHub Org]()
+
+##[Meteor](https://www.meteor.com/) - [GitHub Org]()
+
+
 
 
 
