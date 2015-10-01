@@ -42,6 +42,8 @@
 
 ##[Meteor](https://www.meteor.com/) - [GitHub Org]()
 
+##[Auth0](https://www.auth0.com/) - [GitHub Org](https://github.com/auth0)
+
 
 
 
